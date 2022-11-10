@@ -24,3 +24,9 @@ https://ipcc-data.org/data_catalogue.html
 
 ## Jupyter and R
 https://medium.com/@shistory02/jupyter-notebook-%EC%97%90%EC%84%9C-r-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-53c738e258ee
+
+## 국가공간정보포털
+http://www.nsdi.go.kr/lxportal/?menuno=2679#none
+
+## 종분포모델링 using R
+https://damariszurell.github.io/SDM-Intro/
